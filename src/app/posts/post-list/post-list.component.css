@@ -1,0 +1,28 @@
+:host {
+    display: block;
+    margin-top: 1rem;
+}
+
+.info-text {
+    margin-top: 1rem;
+    text-align: center;
+}
+
+mat-spinner {
+    margin: auto;
+}
+
+.postImage {
+    padding: 20px;
+}
+
+.postImage figure {
+    width: 20%;
+    height: 150px;
+    margin: 0;
+}
+
+.postImage figure img {
+    width: 100%;
+    height: 100%;
+}
